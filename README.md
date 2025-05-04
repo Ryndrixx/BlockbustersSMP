@@ -25,4 +25,4 @@ This page is a source of information and a troubleshooting guide, all files/vers
  Head to the *Curseforge* settings, under *Game Specific*, select *Minecraft*
  
  1. Under *Launcher Settings* select *Skip Launcher with Curseforge*
- 2. 
+ 2. Under *Allocated Memory* it is recommended to select *Recommended by author*. Either way, make sure your RAM slider is set to 8000MB. Now this can be a little more complicated. You may need to adjust this based on     your system hardware, i.e., if you know you have only 12GB of system RAM, and using 8GB on minecraft isn't leaving enough for your machines basic funcions/tasks, you may need to turn it down some. That being said,     if you find yourself wanting to increase the slider, know that it is not recommended to exceed 8GB, and anything more than 12GB is 100% overkill, and will almost certainly cause issues.
