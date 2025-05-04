@@ -4,7 +4,7 @@ This page is a source of information and a troubleshooting guide, all files/vers
 
 ### In This Guide
 - [Setup](#setup)
-  - [Install Curseforge & Modpack Profile](https://github.com/Ryndrixx/BlockbustersSMP/edit/main/README.md#install-curseforge--modpack-profile)
+  - [Install Curseforge & Modpack Profile](#install-curseforge--modpack-profile)
   - [Recommended settings](#recommended-settings)
 - [Troubleshooting](#troubleshooting)
 
