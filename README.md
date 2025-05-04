@@ -1,10 +1,10 @@
 # BlockbustersSMP
 This is the official GitHub page for the BlockbustersSMP modpack!  
-This page is a source of information and a troubleshooting guide, All files/versions of the modpack itself are published on Curseforge.
+This page is a source of information and a troubleshooting guide, all files/versions of the modpack itself are published on Curseforge.
 
 ### In This Guide
 - [Setup](#setup)
-  - [Install Curseforge & Modpack Profile](install-curseforge-&-modpack-profile)
+  - [Install Curseforge & Modpack Profile](#install-curseforge-&-modpack-profile)
   - [Recommended settings]
 - [Troubleshooting]
 
