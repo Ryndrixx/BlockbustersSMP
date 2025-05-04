@@ -7,8 +7,8 @@ This page is a source of information and a troubleshooting guide, all files/vers
   - [Install Curseforge & Modpack Profile](#install-curseforge--modpack-profile)
   - [Recommended settings](#recommended-settings)
 - [Troubleshooting](#troubleshooting)
-  - [Modpack not launching/crashing on launch](modpack-not-launchingcrashing-on-launch)
-  - [Poor Performance](poor-performance)
+  - [Modpack not launching/crashing on launch](#modpack-not-launchingcrashing-on-launch)
+  - [Poor Performance](#poor-performance)
 
 ---
 ## Setup
