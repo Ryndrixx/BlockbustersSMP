@@ -1,5 +1,5 @@
 # BlockbustersSMP
-This is the official GitHub page for the BlockbustersSMP modpack!  
+This is the official GitHub page for the [BlockbustersSMP modpack!](https://www.curseforge.com/minecraft/modpacks/blockbusterssmp)  
 This page is a source of information and a troubleshooting guide, all files/versions of the modpack itself are published on Curseforge.
 
 ### In This Guide
@@ -26,13 +26,15 @@ This page is a source of information and a troubleshooting guide, all files/vers
 
  Head to the *Curseforge* settings, under *Game Specific*, select *Minecraft*
  
- 1. Under *Launcher Settings* select *Skip Launcher with Curseforge*
- 2. Under *Allocated Memory* it is recommended to select *Recommended by author*. Either way, make sure your RAM slider is set to 8000MB. Now this can be a little more complicated. You may need to adjust this based on     your system hardware, i.e., if you know you      have only 12GB of system RAM, and using 8GB on minecraft isn't leaving enough for your machines basic funcions/tasks, you may need to turn it down some. That being said,     if you find yourself wanting to increase the slider, know that it is not recommended to      exceed 8GB, and anything more than 12GB is 100% overkill, and will almost certainly cause issues.
+- Under *Launcher Settings* select *Skip Launcher with Curseforge* (the vanilla minecraft launcher often causes issues loading this modpack, this setting will use curseforge to load the game instead)
+
+- Under *Allocated Memory* it is recommended to select *Recommended by author*. Either way, make sure your RAM slider is set to 8000MB. Now this can be a little more complicated. You may need to adjust this based on     your system hardware, i.e., if you know you      have only 12GB of system RAM, and using 8GB on minecraft isn't leaving enough for your machines basic funcions/tasks, you may need to turn it down some. That being said,     if you find yourself wanting to increase the slider, know that it is not recommended to      exceed 8GB, and anything more than 12GB is 100% overkill, and will almost certainly cause issues.
 
 # Troubleshooting
 
 ### Modpack not launching/crashing on launch
-There could be several causes for this... but the most likely cause is Java, *or the lack thereof*. The easiest way to fix this would be to run the vanilla version of minecraft 1.19.2 once, which should automatically install the correct java version.
+There could be several causes for this... 
+One of the most likely cause is Java, *or the lack thereof*. The easiest way to fix this would be to run the vanilla version of minecraft 1.19.2 once, which should automatically install the correct java version.
 If you are still having this issue after running the vanilla version of Minecraft, you'll have to download Java 17 manually, as this is the Java version Minecraft 1.19.2 runs on. Reference [this video](https://www.youtube.com/watch?v=syW8hEPQRRg) for help.
 If you do ALL of this and you are still having this issue, it may be because you have other Java versions on your pc taking priority over Java 17. If so you'll have to change this, you can do this in the curseforge launcher. Go to the game specific setttings>Minecraft>scroll down to the bottom and under Java Versions choose Java 17 and select Java 17 in your file explorer. 
 
