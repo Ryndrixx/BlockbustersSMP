@@ -9,6 +9,7 @@ This page is a source of information and a troubleshooting guide, all files/vers
 - [Troubleshooting](#troubleshooting)
   - [Modpack not launching/crashing on launch](#modpack-not-launchingcrashing-on-launch)
   - [Poor Performance](#poor-performance)
+- [Links](#links)
 
 ---
 ## Setup
@@ -45,3 +46,8 @@ Modded Minecraft is very taxing, espically this modpack. That being said don't b
 3. You can try adding these custom JVM arguments to your game client to help with performance:  
    -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
    (this may result in a slower load time, but should greatly increase the perfomance of Java, and how much RAM it is using on your machine)
+
+## Links
+
+- [Curseforge](https://www.curseforge.com/) Mod repository site where this modpack is hosted
+- [BlockbustersSMP](https://www.curseforge.com/minecraft/modpacks/blockbusterssmp) Curseforge webpage for this modpack
