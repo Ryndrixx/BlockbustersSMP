@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e029cf9-81b8-4d83-9a97-2c34c1df3979) 
-# BlockbustersSMP
+ # BlockbustersSMP
 This is the official GitHub page for the [BlockbustersSMP modpack!](https://www.curseforge.com/minecraft/modpacks/blockbusterssmp)  
 This page is a source of information and a troubleshooting guide, all files/versions of the modpack itself are published on Curseforge.
 
