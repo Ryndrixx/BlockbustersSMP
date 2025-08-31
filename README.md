@@ -1,5 +1,5 @@
- # BlockbustersSMP
-This is the official GitHub page for the [BlockbustersSMP modpack!](https://www.curseforge.com/minecraft/modpacks/blockbusterssmp)  
+ # Blockbusters
+This is the official GitHub page for the Blockbusters modpack!  
 This page is a source of information and a troubleshooting guide, all files/versions of the modpack itself are published on Curseforge.
 
 ### In This Guide
@@ -9,6 +9,7 @@ This page is a source of information and a troubleshooting guide, all files/vers
 - [Troubleshooting](#troubleshooting)
   - [Modpack not launching/crashing on launch](#modpack-not-launchingcrashing-on-launch)
   - [Poor Performance](#poor-performance)
+- [Blockbusters GPT](#blockbusters-gpt) 
 - [Links](#links)
 
 ---
@@ -35,8 +36,8 @@ This page is a source of information and a troubleshooting guide, all files/vers
 
 ### Modpack not launching/crashing on launch
 There could be several causes for this... 
-One of the most likely cause is Java, *or the lack thereof*. The easiest way to fix this would be to run the vanilla version of minecraft 1.19.2 once, which should automatically install the correct java version.
-If you are still having this issue after running the vanilla version of Minecraft, you'll have to download Java 17 manually, as this is the Java version Minecraft 1.19.2 runs on. Reference [this video](https://www.youtube.com/watch?v=syW8hEPQRRg) for help.
+One of the most likely cause is Java, *or the lack thereof*. The easiest way to fix this would be to run the vanilla version of minecraft 1.20.1 once, which should automatically install the correct java version.
+If you are still having this issue after running the vanilla version of Minecraft, you'll have to download Java 17 manually, as this is the Java version Minecraft 1.20.1 runs on. Reference [this video](https://www.youtube.com/watch?v=syW8hEPQRRg) for help.
 If you do ALL of this and you are still having this issue, it may be because you have other Java versions on your pc taking priority over Java 17. If so you'll have to change this, you can do this in the curseforge launcher. Go to the game specific setttings>Minecraft>scroll down to the bottom and under Java Versions choose Java 17 and select Java 17 in your file explorer. 
 
 ### Poor Performance
@@ -47,7 +48,12 @@ Modded Minecraft is very taxing, espically this modpack. That being said don't b
    -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
    (this may result in a slower load time, but should greatly increase the perfomance of Java, and how much RAM it is using on your machine)
 
+# Blockbusters GPT
+
+If you need any additional help with torubleshooting, or if you need help with anything in-game, ask [Blockbusters GPT](https://chatgpt.com/g/g-689e8843bbf481918d25498c1a97a2a8-create-block-buster)! Blockbusters GPT was desinged by one of our own players to help us diagnose issues with our mod pack. It knows every last thing about this mod pack and can help with just about anything you need related to Blockbusters!
+
 ## Links
 
 - [Curseforge](https://www.curseforge.com/) -Mod repository site where this modpack is hosted
-- [BlockbustersSMP](https://www.curseforge.com/minecraft/modpacks/blockbusterssmp) -Curseforge webpage for this modpack
+- [Blockbusters](https://www.curseforge.com/minecraft/modpacks/blockbusterssmp) -Curseforge webpage for this modpack
+- [Blockbusters GPT](https://chatgpt.com/g/g-689e8843bbf481918d25498c1a97a2a8-create-block-buster) -A helpful GPT that can be used as a tool to help you solve any issues in this mod pack
